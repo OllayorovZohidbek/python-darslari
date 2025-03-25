@@ -39,7 +39,7 @@ Created on Tue Mar  4 11:36:19 2025
 # 05-dars
 
 # f-string
-#ism = "Zohid"
+#ism = "Zohidbek"
 #familiya = "Ollayorov"
 #print(f"Mening ismim {ism}, familyam  {familiya}")
 
